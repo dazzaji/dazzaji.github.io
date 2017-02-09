@@ -14,7 +14,7 @@
 
 **Depreciated Release:** 
 
-* Legal counsel for technology to the Commonwealth of Massachusetts Chief Technology Officer
+* Legal counsel for the [Commonwealth of Massachusetts Information Techology Division](http://dazzagreenwood.com/Materials/Testimony/Full-Esign-Hearing.html)
 
 
 ## Key Resources: 
