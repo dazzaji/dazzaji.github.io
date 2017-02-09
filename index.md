@@ -2,7 +2,7 @@
 
 **Beta Release:** 
 
-* Lead [law.MIT.edu](https://law.mit.edu) at MIT (at the [Media Lab](https://www.media.mit.edu) 
+* Lead [law.MIT.edu](https://law.mit.edu) at MIT (at the [Media Lab](https://www.media.mit.edu))
 
 * Co-Chair of [Massachusetts Legal Hackers](https://www.meetup.com/Massachusetts-Legal-Hackers), a Chapter of [LegalHackers.org](https://legalhackers.org)
 
