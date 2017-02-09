@@ -1,1 +1,3 @@
-# README is coming later.
+# README 
+
+See: http://dazzaji.github.io/
