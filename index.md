@@ -6,7 +6,7 @@
 
 **Current Release:** 
 * Lead business/legal/technical integration consultancy [CIVICS.com](http://civics.com) 
-* [bio](http://dazzagreenwood.com/bio.html)
+* Professional [bio](http://dazzagreenwood.com/bio.html)
 
 **Depreciated Release:** 
 * Legal counsel for technology to the Commonwealth of Massachusetts Chief Technology Officer
