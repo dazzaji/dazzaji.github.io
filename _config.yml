@@ -1,0 +1,8 @@
+title: DazzaJi.GitHub.io
+description: Dazza J. Greenwood GitHub Web Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
